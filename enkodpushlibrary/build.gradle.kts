@@ -43,7 +43,6 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
     implementation("com.squareup.okhttp3:okhttp:4.9.0")
     implementation("com.squareup.okhttp3:logging-interceptor:4.8.0")
-    implementation ("com.google.firebase:firebase-messaging-directboot:20.2.0")
     implementation ("com.google.firebase:firebase-messaging:23.3.0")
     implementation ("androidx.work:work-runtime-ktx:2.9.0")
     implementation("io.coil-kt:coil:2.5.0")
