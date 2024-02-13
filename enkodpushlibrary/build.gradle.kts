@@ -67,7 +67,7 @@ publishing {
     publications {
         register<MavenPublication>("release") {
             groupId = "com.github.AndreyWeather"
-            artifactId = "My Application"
+            artifactId = "MyApplication2"
             version = "1.0.0"
 
             afterEvaluate {
